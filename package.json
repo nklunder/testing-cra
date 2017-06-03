@@ -16,5 +16,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "deploy": "push-dir --dir=build --branch=gh-pages --cleanup"
-  }
+  },
+  "homepage": "http://nklunder.github.io/react-test"
 }
